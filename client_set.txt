@@ -1,0 +1,6 @@
+text
+corpus
+from
+language
+approach
+resource
